@@ -7,7 +7,11 @@ I do supply chain security stuff in Python.
 Also on Reddit:
 https://www.reddit.com/user/0xIkari/
 
-I own the nuclear-treestump organization, which is where most of my tools end up.
+I own the [nuclear-treestump](https://github.com/nuclear-treestump) organization, which is where most of my tools end up.
+
+## Current Projects
+
+* [pydepgate](https://github.com/nuclear-treestump/pydepgate) - Stdlib only adversarial-code supply chain Python scanner, soon to have CVE support.  
 
 <!--
 **0xIkari/0xIkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
